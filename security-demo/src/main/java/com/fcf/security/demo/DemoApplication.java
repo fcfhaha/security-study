@@ -20,10 +20,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author V.Caifeng.Fan
- * @ClassName DemoApplication
- * @Description: TODO
- * @date 2020年3月26日 下午6:08:50
+ * @author V.Caifeng.Fan 
+ * @ClassName DemoApplication 
+ * @Description: TODO 
+ * @date 2020年3月26日 下午6:08:50 
  */
 @SpringBootApplication
 public class DemoApplication {
